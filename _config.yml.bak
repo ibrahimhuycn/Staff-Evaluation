@@ -5,7 +5,7 @@ baseurl: 'https://ibrahimhuycn.github.io/StaffEvaluation'
 # Navigation
 # List links that should appear in the site sidebar here
 navigation:
-- text: Introduction
+- text: Manual Workflow
   internal: true
   url: ./
 - text: Add a new page
