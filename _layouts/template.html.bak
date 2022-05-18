@@ -3,7 +3,7 @@
 <body>
 
 {% for page in site.pages %}
-    <a href={{ index.md }}>{{ Manual }}</a>
+    <a href={{ /index.md }}>{{ Manual Workflow }}</a>
 {% endfor %}
 
 </body>
