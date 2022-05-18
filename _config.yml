@@ -1,13 +1,1 @@
 theme: jekyll-theme-leap-day
-
-exclude: [".rvmrc", ".rbenv-version", "README.md", "changelog.md"]
-markdown: kramdown
-highlighter: rouge
-permalink: pretty
-
-collections:
-  pages:
-    output: true
-    permalink: /:path/
-    
-baseurl: '/Staff-Evaluation'
