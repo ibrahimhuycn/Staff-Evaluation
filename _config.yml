@@ -11,15 +11,3 @@ collections:
     permalink: /:path/
     
 baseurl: '/Staff-Evaluation'
-
-# Navigation
-# List links that should appear in the site sidebar here
-navigation:
-- text: Manual Workflow
-  internal: true
-  url: ./
-- text: Add a new page
-  internal: true
-  url: aasandha-workflow
-- text: Aasandha Workflow
-  internal: true
