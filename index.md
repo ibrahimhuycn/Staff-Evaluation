@@ -26,6 +26,7 @@
 - Print barcodes
 
 >> ASK TO ENTER RESULTS
+
 ## Sample rejected
 - Check which sample was rejected
 - Check why the sample was rejected
