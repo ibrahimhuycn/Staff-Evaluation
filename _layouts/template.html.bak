@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+{% for page in site.pages %}
+    <a href={{ index.md }}>{{ Manual }}</a>
+{% endfor %}
+
+</body>
+</html> 
