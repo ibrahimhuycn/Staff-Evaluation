@@ -25,7 +25,7 @@
 ## Sample Collection
 - Print barcodes
 
->> ASK TO ENTER RESULTS
+_ASK TO ENTER RESULTS_
 
 ## Sample rejected
 - Check which sample was rejected
