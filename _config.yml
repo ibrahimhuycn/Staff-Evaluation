@@ -20,6 +20,6 @@ navigation:
   url: ./
 - text: Add a new page
   internal: true
-  url: /aasandha-workflow
+  url: aasandha-workflow
 - text: Aasandha Workflow
   internal: true
