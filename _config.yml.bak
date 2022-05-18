@@ -1,13 +1,13 @@
 theme: jekyll-theme-tactile
 
-baseurl: '/Staff-Evaluation'
+baseurl: 'https://ibrahimhuycn.github.io/StaffEvaluation'
 
 # Navigation
 # List links that should appear in the site sidebar here
 navigation:
 - text: Introduction
   internal: true
-  url: ./index.md
+  url: ./
 - text: Add a new page
   internal: true
   url: ./aasandha-workflow.md
