@@ -1,4 +1,8 @@
 # Aasandha Workflow
+
+[HOME](https://ibrahimhuycn.github.io/Staff-Evaluation)
+[MANUAL](https://ibrahimhuycn.github.io/Staff-Evaluation/manual)
+
 ## Patient registration
 
 #### Usual
@@ -13,4 +17,4 @@
 - Add Hb/PCV, Renal Profile
 
 [HOME](https://ibrahimhuycn.github.io/Staff-Evaluation)
-[MANUAL](https://ibrahimhuycn.github.io/Staff-Evaluation/workflows/manual)
+[MANUAL](https://ibrahimhuycn.github.io/Staff-Evaluation/manual)

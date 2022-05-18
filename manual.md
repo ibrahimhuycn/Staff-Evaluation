@@ -1,5 +1,8 @@
 # Manual Workflow
 
+[HOME](https://ibrahimhuycn.github.io/Staff-Evaluation)
+[AASANDHA](https://ibrahimhuycn.github.io/Staff-Evaluation/aasandha/)
+
 ## Patient registration
 
 - register a patient with passport
@@ -39,4 +42,4 @@ _ASK TO ENTER RESULTS_
 - Delete the visit.
 
 [HOME](https://ibrahimhuycn.github.io/Staff-Evaluation)
-[AASANDHA](https://ibrahimhuycn.github.io/Staff-Evaluation/workflows/aasandha/)
+[AASANDHA](https://ibrahimhuycn.github.io/Staff-Evaluation/aasandha/)
