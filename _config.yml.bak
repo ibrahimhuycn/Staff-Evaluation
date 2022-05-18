@@ -1,6 +1,6 @@
 theme: jekyll-theme-tactile
 
-baseurl: 'https://ibrahimhuycn.github.io/StaffEvaluation'
+baseurl: '/StaffEvaluation'
 
 # Navigation
 # List links that should appear in the site sidebar here
