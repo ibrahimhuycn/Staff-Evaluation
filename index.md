@@ -3,7 +3,6 @@
 ## Patient registration
 
 - register a patient with passport
-
 - import a passport photo
 
 ## Request
@@ -47,9 +46,7 @@ _ASK TO ENTER RESULTS_
 #### Usual
 
 - register a patient with national ID `use vinavi to get patient details`
-
 - Update patient phone number and email address on vinavi through Sisoft.
-
 - Register through referral vinavi acceptance
 
 #### ADK Request
