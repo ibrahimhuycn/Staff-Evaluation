@@ -1,6 +1,8 @@
 # Aasandha Workflow
 
+
 [HOME](https://ibrahimhuycn.github.io/Staff-Evaluation)
+
 [MANUAL](https://ibrahimhuycn.github.io/Staff-Evaluation/manual)
 
 ## Patient registration
@@ -16,5 +18,7 @@
 - Register a patient (`Patient not on vinavi`) from the list provided
 - Add Hb/PCV, Renal Profile
 
+
 [HOME](https://ibrahimhuycn.github.io/Staff-Evaluation)
+
 [MANUAL](https://ibrahimhuycn.github.io/Staff-Evaluation/manual)
